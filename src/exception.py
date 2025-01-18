@@ -1,5 +1,6 @@
 import sys  # Importing the 'sys' module to work with system-specific parameters and functions.
-import logging
+from src.logger import logging
+
 # Function to extract and format detailed error messages
 def error_message_detail(error,error_detail:sys):
     # Extract traceback information about the exception, This gives (type, value, traceback). We focus on the traceback.
@@ -28,7 +29,7 @@ class CustomException(Exception):
          # Define what gets returned when the exception is converted to a string (e.g., print(exception)).
         return self.error_message
     
-
+'''
 # Test exceptional handling
 if __name__ == "__main__":
     try:
@@ -36,4 +37,4 @@ if __name__ == "__main__":
     except Exception as e:
         logging.info("A division by zero occurred")
         raise CustomException(e,sys)
-        
+'''
