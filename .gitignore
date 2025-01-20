@@ -137,7 +137,7 @@ env.bak/
 venv.bak/
 # Ignore virtual environment directory
 venv-ml/
-.DS_Store/
+.DS_Store
 
 # Spyder project settings
 .spyderproject
