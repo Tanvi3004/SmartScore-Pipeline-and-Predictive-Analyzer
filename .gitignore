@@ -137,7 +137,7 @@ env.bak/
 venv.bak/
 # Ignore virtual environment directory
 venv-ml/
-artifacts/
+
 
 # Spyder project settings
 .spyderproject
