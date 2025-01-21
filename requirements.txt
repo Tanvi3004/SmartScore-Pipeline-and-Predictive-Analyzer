@@ -1,9 +1,0 @@
-pandas=2.2.3 
-numpy=1.23.5 
-seaborn 
-scikit-learn 
-catboost=1.2.7 
-xgboost 
-matplotlib
-dill
-#-e .
