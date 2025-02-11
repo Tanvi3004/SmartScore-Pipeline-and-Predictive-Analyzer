@@ -107,7 +107,9 @@ Below are screenshots of the SmartScore Pipeline and Predictive Analyzer web int
 ## 1. Home Page
 Displays a welcome message upon accessing the application.
 Confirms that the application is running successfully on the specified server.
-
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/2389b3d8-8d3c-42f6-bb15-660684f47719" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/2cd0bdb8-28f5-49d6-a915-0fbcd4af3502" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/436184a9-dd89-42a6-9554-8a210dc0064f" />
 ## 2. Student Exam Performance Prediction Page
 Users can input student details such as gender, ethnicity, parental education level, lunch type, test preparation course completion, writing score, and reading score.
 A button labeled "Predict your Maths Score" triggers the machine learning model to generate a prediction.
