@@ -85,3 +85,12 @@ If a web interface is provided, run the application with:
 ``` bash
 python application.py
 ```
+
+# Model Training Details
+
+- Algorithm: CatBoost Classifier
+- Hyperparameter Optimization: Tuned via Grid Search
+- Performance Metrics:
+  - Accuracy
+  - Precision, Recall, F1-score
+  - Feature Importance Analysis
