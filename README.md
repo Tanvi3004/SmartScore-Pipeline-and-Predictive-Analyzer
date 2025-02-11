@@ -45,6 +45,6 @@ The SmartScore Pipeline and Predictive Analyzer is designed to provide a streaml
 
 ### 1. Installation
 
-''' bash
+``` bash
 Clone the Repository
-'''
+```
