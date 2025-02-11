@@ -94,3 +94,11 @@ python application.py
   - Accuracy
   - Precision, Recall, F1-score
   - Feature Importance Analysis
+ 
+# Visualization & Monitoring
+
+- Training and evaluation logs are stored in catboost_info/
+- Jupyter notebooks provide detailed EDA and model analysis
+- HTML templates allow for visualizing key model insights
+
+
