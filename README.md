@@ -36,13 +36,15 @@ The SmartScore Pipeline and Predictive Analyzer is designed to provide a streaml
 
 
 # Key Features
- - End-to-End ML Pipeline:
-   Automates data preprocessing, model training, and prediction.
- - CatBoost Implementation:
-   Uses CatBoost for robust classification and performance tuning.
- - Data Preprocessing:
-   Includes data cleaning, feature engineering, and transformations.
+- End-to-End ML Pipeline: Automates data preprocessing, model training, and prediction.
+- CatBoost Implementation: Uses CatBoost for robust classification and performance tuning.
+- Data Preprocessing:Includes data cleaning, feature engineering, and transformations.
 - Model Training & Evaluation: Stores models and evaluation metrics in the artifacts directory.
 - Notebook Documentation: Provides EDA and model training workflows in Jupyter Notebooks.
 - Web Interface Support: Supports visualization through templates/ directory.
 
+### 1. Installation
+
+''' bash
+Clone the Repository
+'''
