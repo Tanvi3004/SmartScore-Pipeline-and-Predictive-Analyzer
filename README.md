@@ -44,7 +44,8 @@ The SmartScore Pipeline and Predictive Analyzer is designed to provide a streaml
 - Web Interface Support: Supports visualization through templates/ directory.
 
 ### 1. Installation
-
-``` bash
 Clone the Repository
+``` bash
+git clone https://github.com/Tanvi3004/SmartScore-Pipeline-and-Predictive-Analyzer.git
+cd SmartScore-Pipeline-and-Predictive-Analyzer
 ```
