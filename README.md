@@ -47,6 +47,8 @@ The SmartScore Pipeline and Predictive Analyzer is designed to provide a streaml
 Clone the Repository
 ``` bash
 git clone https://github.com/Tanvi3004/SmartScore-Pipeline-and-Predictive-Analyzer.git
+```
+``` bash
 cd SmartScore-Pipeline-and-Predictive-Analyzer
 ```
 ### 2. Create and Activate a Virtual Environment
