@@ -49,3 +49,8 @@ Clone the Repository
 git clone https://github.com/Tanvi3004/SmartScore-Pipeline-and-Predictive-Analyzer.git
 cd SmartScore-Pipeline-and-Predictive-Analyzer
 ```
+### 2. Create and Activate a Virtual Environment
+``` bash
+python3 -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate
+```
