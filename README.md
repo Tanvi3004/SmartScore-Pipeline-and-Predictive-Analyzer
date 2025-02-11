@@ -101,4 +101,17 @@ python application.py
 - Jupyter notebooks provide detailed EDA and model analysis
 - HTML templates allow for visualizing key model insights
 
+# Web Interface Preview
+Below are screenshots of the SmartScore Pipeline and Predictive Analyzer web interface.
 
+## 1. Home Page
+Displays a welcome message upon accessing the application.
+Confirms that the application is running successfully on the specified server.
+
+## 2. Student Exam Performance Prediction Page
+Users can input student details such as gender, ethnicity, parental education level, lunch type, test preparation course completion, writing score, and reading score.
+A button labeled "Predict your Maths Score" triggers the machine learning model to generate a prediction.
+
+## 3. Prediction Output
+After entering the required inputs, the app provides a predicted maths score based on the model’s trained data.
+This prediction helps in analyzing student performance trends.
