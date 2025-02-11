@@ -62,3 +62,26 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate
 ``` bash
 pip install -r requirements.txt
 ```
+
+# Usage
+
+### 1. Data Preprocessing
+To preprocess data and generate training/test datasets:
+``` bash
+python src/components/data_ingestion.py
+```
+### 2. Model Training
+To train a new model with the defined pipeline:
+``` bash
+python src/pipeline/train_pipeline.py
+```
+### 3. Making Predictions
+To generate predictions using the trained model:
+``` bash
+python src/pipeline/predict_pipeline.py
+```
+### 4. Running the Application
+If a web interface is provided, run the application with:
+``` bash
+python application.py
+```
