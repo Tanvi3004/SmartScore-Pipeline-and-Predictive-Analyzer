@@ -1,6 +1,6 @@
-## SmartScore-Pipeline-and-Predictive-Analyzer
+# SmartScore-Pipeline-and-Predictive-Analyzer
 
-
+The SmartScore Pipeline and Predictive Analyzer is designed to provide a streamlined approach for processing and analyzing predictive models using machine learning. This project leverages CatBoost, data preprocessing techniques, and a well-defined ML pipeline to optimize performance and efficiency.
 
 # Project Structure
 
@@ -33,3 +33,12 @@
   - **templates/** - Frontend templates for visualization.
     - `home.html` - Home page template.
     - `index.html` - Index page template.
+
+
+# Key Features
+ - End-to-End ML Pipeline:
+   Automates data preprocessing, model training, and prediction.
+ - CatBoost Implementation:
+   Uses CatBoost for robust classification and performance tuning.
+ - 
+ - 
